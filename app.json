@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4d7dce11-ab5b-4ea2-bcf5-84ff36ef3a61"
+      }
+    },
+    "owner": "lealvarez"
   }
 }
